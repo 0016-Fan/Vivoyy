@@ -13,3 +13,10 @@
 
      全键盘输入：专业工作效率高
      面向自动化：管道、文件、脚本
+# cat /etc/issue
+     查看发行版基本信息
+# cat /etc/lsb_release 
+     查看Ubuntu18.04版本信息
+# cat /etc/redhat_release
+     查看红帽子版本信息
+       
